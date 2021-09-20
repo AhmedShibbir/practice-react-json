@@ -60,7 +60,7 @@ function SharingPost(props){
     border: "2px solid lightgreen",
     borderRadius: "10px",
     margin: "20px auto",
-    width: "760px"
+    width: "512px"
   };
   // console.log(props.userId,props.postId,props.title);
   return(
